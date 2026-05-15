@@ -1,0 +1,12 @@
+# Credenciais - NUNCA commitar
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# ChromaDB local
+chroma_db/
